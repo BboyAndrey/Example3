@@ -21,6 +21,7 @@ int main() {
 	
 	Commit3 << endl;
 	
+	Commit4 << endl;
 	
 	system ("pause");
 	return 0; 
