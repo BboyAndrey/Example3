@@ -19,6 +19,9 @@ int main() {
 	cout << snack.namesweet << " " << snack.weight << " " << snack.caloriy << endl << endl;
 	cout << "Hello World" << endl;
 	
+	Commit3 << endl;
+	
+	
 	system ("pause");
 	return 0; 
 }
