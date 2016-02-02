@@ -31,7 +31,11 @@ int main() {
 	
 	Commit1555 << endl;
 	
-	CommitAllo << endl;
+	Commit17 << endl;
+	
+	Commit18 << endl;
+	
+	Commit200 << endl;
 	
 	system ("pause");
 	return 0; 
