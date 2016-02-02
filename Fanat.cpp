@@ -51,6 +51,8 @@ int main() {
 	
 	Commit31 << endl;
 	
+	Commit32 << endll;
+	
 	system ("pause");
 	return 0; 
 }
