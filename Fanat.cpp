@@ -39,6 +39,8 @@ int main() {
 	
 	Commit21 << endl;
 	
+	Commit22 << endl;
+	
 	system ("pause");
 	return 0; 
 }
