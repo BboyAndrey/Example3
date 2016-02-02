@@ -49,6 +49,7 @@ int main() {
 	
 	Commit30 << endl;
 	
+	
 	system ("pause");
 	return 0; 
 }
