@@ -23,11 +23,7 @@ int main() {
 	
 	Commit4 << endl;
 
-<<<<<<< HEAD
-	Commit7 << endl;
-=======
-	Commit77 << endl;
->>>>>>> testing
+	Commit9 << endl;
 
 	
 	system ("pause");
